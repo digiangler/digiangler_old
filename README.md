@@ -40,22 +40,22 @@
 
 ### Latest Qiita Posts
 
-<!-- QIITA-POST-LIST:START -->
-<!-- QIITA-POST-LIST:END -->
+<!-- QIITA:START -->
+<!-- QIITA:END -->
 
 ---
 
 ### Latest note Posts
 
-<!-- NOTE-POST-LIST:START -->
-<!-- NOTE-POST-LIST:END -->
+<!-- NOTE:START -->
+<!-- NOTE:END -->
 
 ---
 
 ### Latest Medium Posts
 
-<!-- MEDIUM-POST-LIST:START -->
-<!-- MEDIUM-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ---
 
