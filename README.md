@@ -156,10 +156,9 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
-
-- [「fish shell」を導入したら、システム開発の作業効率が改善したよ ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開 ❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう ❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
+- [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
+- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
+- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
 - [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
@@ -180,10 +179,9 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-
 - [続「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/ncfa17cc3072c)
-- [優秀な人は実は稼げない ❗❓](https://note.com/digiangler777/n/nb39cf4837188)
-- [「吸う」より「吐く」を意識しよう ❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
+- [優秀な人は実は稼げない❗❓](https://note.com/digiangler777/n/nb39cf4837188)
+- [「吸う」より「吐く」を意識しよう❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
 - [パソコンがクラッシュしたときの対処法](https://note.com/digiangler777/n/n386c2efb4e4e)
 - [アイディアを生み出すヒントをくれる一冊](https://note.com/digiangler777/n/n8e84a248b602)
 <!-- NOTE:END -->
@@ -197,10 +195,9 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
-
-- [努力に逃げたら負ける ❗](https://medium.com/@digiangler/%E5%8A%AA%E5%8A%9B%E3%81%AB%E9%80%83%E3%81%91%E3%82%99%E3%81%9F%E3%82%89%E8%B2%A0%E3%81%91%E3%82%8B-6b9a0fdd56c9?source=rss-4f4f58d46ad9------2)
-- [結局は自分次第だよ ❗](https://medium.com/@digiangler/%E7%B5%90%E5%B1%80%E3%81%AF%E8%87%AA%E5%88%86%E6%AC%A1%E7%AC%AC%E3%81%A0%E3%82%88-e54dbf842399?source=rss-4f4f58d46ad9------2)
-- [アプリを整理してスッキリさせよう ❗](https://medium.com/@digiangler/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%95%E3%81%9B%E3%82%88%E3%81%86-3b2d4db16a77?source=rss-4f4f58d46ad9------2)
+- [努力に逃げたら負ける❗](https://medium.com/@digiangler/%E5%8A%AA%E5%8A%9B%E3%81%AB%E9%80%83%E3%81%91%E3%82%99%E3%81%9F%E3%82%89%E8%B2%A0%E3%81%91%E3%82%8B-6b9a0fdd56c9?source=rss-4f4f58d46ad9------2)
+- [結局は自分次第だよ❗](https://medium.com/@digiangler/%E7%B5%90%E5%B1%80%E3%81%AF%E8%87%AA%E5%88%86%E6%AC%A1%E7%AC%AC%E3%81%A0%E3%82%88-e54dbf842399?source=rss-4f4f58d46ad9------2)
+- [アプリを整理してスッキリさせよう❗](https://medium.com/@digiangler/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%95%E3%81%9B%E3%82%88%E3%81%86-3b2d4db16a77?source=rss-4f4f58d46ad9------2)
 - [働くスタイル](https://medium.com/@digiangler/%E5%83%8D%E3%81%8F%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB-3c6b12b43545?source=rss-4f4f58d46ad9------2)
 - [ヒトは賢いからこそ間違いを犯す](https://medium.com/@digiangler/%E3%83%92%E3%83%88%E3%81%AF%E8%B3%A2%E3%81%84%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D%E9%96%93%E9%81%95%E3%81%84%E3%82%92%E7%8A%AF%E3%81%99-2300c1ac8c47?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
