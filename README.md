@@ -185,11 +185,10 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-
-- [私が働いていた SES 企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
+- [私が働いていたSES企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
 - [続「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/ncfa17cc3072c)
-- [優秀な人は実は稼げない ❗❓](https://note.com/digiangler777/n/nb39cf4837188)
-- [「吸う」より「吐く」を意識しよう ❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
+- [優秀な人は実は稼げない❗❓](https://note.com/digiangler777/n/nb39cf4837188)
+- [「吸う」より「吐く」を意識しよう❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
 - [パソコンがクラッシュしたときの対処法](https://note.com/digiangler777/n/n386c2efb4e4e)
 <!-- NOTE:END -->
 
