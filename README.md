@@ -164,10 +164,9 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
-
-- [「fish shell」を導入したら、システム開発の作業効率が改善したよ ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開 ❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう ❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
+- [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
+- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
+- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
 - [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
@@ -188,11 +187,10 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-
-- [私が働いていた SES 企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
+- [私が働いていたSES企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
 - [続「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/ncfa17cc3072c)
-- [優秀な人は実は稼げない ❗❓](https://note.com/digiangler777/n/nb39cf4837188)
-- [「吸う」より「吐く」を意識しよう ❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
+- [優秀な人は実は稼げない❗❓](https://note.com/digiangler777/n/nb39cf4837188)
+- [「吸う」より「吐く」を意識しよう❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
 - [パソコンがクラッシュしたときの対処法](https://note.com/digiangler777/n/n386c2efb4e4e)
 <!-- NOTE:END -->
 
