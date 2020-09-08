@@ -187,11 +187,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n3be626f9495b)
 - [入社1年目の頃のお話〜携帯電話がスマホじゃなかった時代〜](https://note.com/digiangler777/n/n3a93dd1f810c)
 - [私はなぜIT企業に入社したのか❗❓](https://note.com/digiangler777/n/n7ede1cbd2a7e)
 - [私が働いていたSES企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
 - [続「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/ncfa17cc3072c)
-- [優秀な人は実は稼げない❗❓](https://note.com/digiangler777/n/nb39cf4837188)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
