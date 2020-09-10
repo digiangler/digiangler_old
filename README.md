@@ -203,11 +203,11 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+- [優秀な人は実は稼げない❗❓](https://medium.com/@digiangler/%E5%84%AA%E7%A7%80%E3%81%AA%E4%BA%BA%E3%81%AF%E5%AE%9F%E3%81%AF%E7%A8%BC%E3%81%91%E3%82%99%E3%81%AA%E3%81%84-e7abf2aa9ba6?source=rss-4f4f58d46ad9------2)
 - [「吸う」より「吐く」を意識しよう❗](https://medium.com/@digiangler/%E5%90%B8%E3%81%86-%E3%82%88%E3%82%8A-%E5%90%90%E3%81%8F-%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%82%88%E3%81%86-b8f81401e7ab?source=rss-4f4f58d46ad9------2)
 - [パソコンがクラッシュしたときの対処法](https://medium.com/@digiangler/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%8C%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95-e2beddeea17e?source=rss-4f4f58d46ad9------2)
 - [アイディアを生み出すヒントをくれる一冊](https://medium.com/@digiangler/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E3%83%92%E3%83%B3%E3%83%88%E3%82%92%E3%81%8F%E3%82%8C%E3%82%8B%E4%B8%80%E5%86%8A-f449bf75663?source=rss-4f4f58d46ad9------2)
 - [努力に逃げたら負ける❗](https://medium.com/@digiangler/%E5%8A%AA%E5%8A%9B%E3%81%AB%E9%80%83%E3%81%91%E3%82%99%E3%81%9F%E3%82%89%E8%B2%A0%E3%81%91%E3%82%8B-6b9a0fdd56c9?source=rss-4f4f58d46ad9------2)
-- [結局は自分次第だよ❗](https://medium.com/@digiangler/%E7%B5%90%E5%B1%80%E3%81%AF%E8%87%AA%E5%88%86%E6%AC%A1%E7%AC%AC%E3%81%A0%E3%82%88-e54dbf842399?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
