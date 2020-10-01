@@ -203,11 +203,11 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+- [私はなぜIT企業に入社したのか❗❓](https://medium.com/@digiangler/%E7%A7%81%E3%81%AF%E3%81%AA%E3%81%9Cit%E4%BC%81%E6%A5%AD%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8B-d1e39603ddc4?source=rss-4f4f58d46ad9------2)
 - [私が働いていたSES企業での多重下請け構造について](https://medium.com/@digiangler/%E7%A7%81%E3%81%8C%E5%83%8D%E3%81%84%E3%81%A6%E3%81%84%E3%81%9Fses%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%AE%E5%A4%9A%E9%87%8D%E4%B8%8B%E8%AB%8B%E3%81%91%E6%A7%8B%E9%80%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-f1d47c25630c?source=rss-4f4f58d46ad9------2)
 - [続「おおとろの世界文学マップ」その後の予定](https://medium.com/@digiangler/%E7%B6%9A-%E3%81%8A%E3%81%8A%E3%81%A8%E3%82%8D%E3%81%AE%E4%B8%96%E7%95%8C%E6%96%87%E5%AD%A6%E3%83%9E%E3%83%83%E3%83%97-%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E4%BA%88%E5%AE%9A-70cf8782a1e9?source=rss-4f4f58d46ad9------2)
 - [優秀な人は実は稼げない❗❓](https://medium.com/@digiangler/%E5%84%AA%E7%A7%80%E3%81%AA%E4%BA%BA%E3%81%AF%E5%AE%9F%E3%81%AF%E7%A8%BC%E3%81%91%E3%82%99%E3%81%AA%E3%81%84-e7abf2aa9ba6?source=rss-4f4f58d46ad9------2)
 - [「吸う」より「吐く」を意識しよう❗](https://medium.com/@digiangler/%E5%90%B8%E3%81%86-%E3%82%88%E3%82%8A-%E5%90%90%E3%81%8F-%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%82%88%E3%81%86-b8f81401e7ab?source=rss-4f4f58d46ad9------2)
-- [パソコンがクラッシュしたときの対処法](https://medium.com/@digiangler/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%8C%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95-e2beddeea17e?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
