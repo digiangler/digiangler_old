@@ -187,11 +187,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [Webエンジニア・デザイナー・ライターの私が使用しているアプリ（ツール）を紹介〜Google Chrome拡張機能編〜](https://note.com/digiangler777/n/n7ccb7eebdd67)
 - [Webエンジニア・デザイナー・ライターの私が使用しているアプリ（ツール）を紹介〜ウェブブラウザ編〜](https://note.com/digiangler777/n/n555f490c6c7d)
 - [いわゆるブラック企業と呼ばれる会社に入社したときのお話](https://note.com/digiangler777/n/nfc6d7bab81a5)
 - [初めての大規模システム開発に携わったときのお話](https://note.com/digiangler777/n/n8821ea6661cd)
 - [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n3be626f9495b)
-- [入社1年目の頃のお話〜携帯電話がスマホじゃなかった時代〜](https://note.com/digiangler777/n/n3a93dd1f810c)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
