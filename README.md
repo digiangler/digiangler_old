@@ -175,12 +175,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-
-- [【2020 年版】Mac ユーザーおすすめアプリ〜Google Chrome 拡張機能編〜](https://note.com/digiangler777/n/n7ccb7eebdd67)
-- [【2020 年版】Mac ユーザーおすすめアプリ〜ウェブブラウザ編〜](https://note.com/digiangler777/n/n555f490c6c7d)
+- [【2020年版】Macユーザーおすすめアプリ〜Google Chrome拡張機能編〜](https://note.com/digiangler777/n/n7ccb7eebdd67)
+- [【2020年版】Macユーザーおすすめアプリ〜ウェブブラウザ編〜](https://note.com/digiangler777/n/n555f490c6c7d)
 - [いわゆるブラック企業と呼ばれる会社に入社したときのお話](https://note.com/digiangler777/n/nfc6d7bab81a5)
 - [初めての大規模システム開発に携わったときのお話](https://note.com/digiangler777/n/n8821ea6661cd)
-- [ソースコードの写経は効果的か ❓ 無駄か ❓](https://note.com/digiangler777/n/n3be626f9495b)
+- [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n3be626f9495b)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
