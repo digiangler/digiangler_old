@@ -191,12 +191,11 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
-
-- [入社 1 年目の頃のお話〜携帯電話がスマホじゃなかった時代〜](https://medium.com/@digiangler/%E5%85%A5%E7%A4%BE1%E5%B9%B4%E7%9B%AE%E3%81%AE%E9%A0%83%E3%81%AE%E3%81%8A%E8%A9%B1-%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%81%8C%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%98%E3%82%83%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%99%82%E4%BB%A3-895d9cd10b11?source=rss-4f4f58d46ad9------2)
-- [私はなぜ IT 企業に入社したのか ❗❓](https://medium.com/@digiangler/%E7%A7%81%E3%81%AF%E3%81%AA%E3%81%9Cit%E4%BC%81%E6%A5%AD%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8B-d1e39603ddc4?source=rss-4f4f58d46ad9------2)
-- [私が働いていた SES 企業での多重下請け構造について](https://medium.com/@digiangler/%E7%A7%81%E3%81%8C%E5%83%8D%E3%81%84%E3%81%A6%E3%81%84%E3%81%9Fses%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%AE%E5%A4%9A%E9%87%8D%E4%B8%8B%E8%AB%8B%E3%81%91%E6%A7%8B%E9%80%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-f1d47c25630c?source=rss-4f4f58d46ad9------2)
+- [入社1年目の頃のお話〜携帯電話がスマホじゃなかった時代〜](https://medium.com/@digiangler/%E5%85%A5%E7%A4%BE1%E5%B9%B4%E7%9B%AE%E3%81%AE%E9%A0%83%E3%81%AE%E3%81%8A%E8%A9%B1-%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E3%81%8C%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%98%E3%82%83%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E6%99%82%E4%BB%A3-895d9cd10b11?source=rss-4f4f58d46ad9------2)
+- [私はなぜIT企業に入社したのか❗❓](https://medium.com/@digiangler/%E7%A7%81%E3%81%AF%E3%81%AA%E3%81%9Cit%E4%BC%81%E6%A5%AD%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8B-d1e39603ddc4?source=rss-4f4f58d46ad9------2)
+- [私が働いていたSES企業での多重下請け構造について](https://medium.com/@digiangler/%E7%A7%81%E3%81%8C%E5%83%8D%E3%81%84%E3%81%A6%E3%81%84%E3%81%9Fses%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%AE%E5%A4%9A%E9%87%8D%E4%B8%8B%E8%AB%8B%E3%81%91%E6%A7%8B%E9%80%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-f1d47c25630c?source=rss-4f4f58d46ad9------2)
 - [続「おおとろの世界文学マップ」その後の予定](https://medium.com/@digiangler/%E7%B6%9A-%E3%81%8A%E3%81%8A%E3%81%A8%E3%82%8D%E3%81%AE%E4%B8%96%E7%95%8C%E6%96%87%E5%AD%A6%E3%83%9E%E3%83%83%E3%83%97-%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E4%BA%88%E5%AE%9A-70cf8782a1e9?source=rss-4f4f58d46ad9------2)
-- [優秀な人は実は稼げない ❗❓](https://medium.com/@digiangler/%E5%84%AA%E7%A7%80%E3%81%AA%E4%BA%BA%E3%81%AF%E5%AE%9F%E3%81%AF%E7%A8%BC%E3%81%91%E3%82%99%E3%81%AA%E3%81%84-e7abf2aa9ba6?source=rss-4f4f58d46ad9------2)
+- [優秀な人は実は稼げない❗❓](https://medium.com/@digiangler/%E5%84%AA%E7%A7%80%E3%81%AA%E4%BA%BA%E3%81%AF%E5%AE%9F%E3%81%AF%E7%A8%BC%E3%81%91%E3%82%99%E3%81%AA%E3%81%84-e7abf2aa9ba6?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
