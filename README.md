@@ -1,6 +1,6 @@
 ### Hi there, I'm [Digi-Angler][website] 👋
 
-[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/GitHub-Banner.png?raw=true" />](https://github.com/digiangler)
+[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/GitHub-Banner_2.png?raw=true" />](https://github.com/digiangler)
 
 [![GitHub followers](https://img.shields.io/github/followers/digiangler?style=for-the-badge)](https://github.com/digiangler)
 [![Twitter Follow](https://img.shields.io/twitter/follow/digiangler?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdigiangler&screen_name=digiangler)
@@ -8,13 +8,13 @@
 [<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />][slack]
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
-## Developer, Open source lover
+## I'm Front-end Engineer (Back end), Designer, Writer in Japan 🚀
 
-## Web Engineer / Web Designer / Writer / Angler
+## Love TypeScript, React, Python, PostgreSQL ⚡
 
-### 内臓と内臓を擦れ合う関係を築いていければと思っております
+### 内臓と内臓を擦れ合う関係を築いていければと思っております 👥
 
-> 元 SIer で SE として某メーカーの組み込みシステム開発や医療システムの開発を経験｜ 2011 年、セールスライティングのスキルを学び、脱サラ、ライターになる｜ 2019 年、SE の血が騒ぎ出しカムバック｜現在は最新の技術を学びながら、Web エンジニア・デザイナーとライターのフルスタックを楽しんでいます。無類のコーヒー好き ☕️
+> 元 SIer で SE として某メーカーの組み込みシステム開発や医療システムの開発を経験｜ 2011 年、セールスライティングのスキルを学び、脱サラ、ライターになる｜ 2019 年、SE の血が騒ぎ出しカムバック｜現在は最新の技術を学びながら、Web 系エンジニア兼デザイナーとライターのフルスタックを楽しんでいます。無類のコーヒー好き ☕️
 
 <br />
 
@@ -153,8 +153,10 @@
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vim/vim.png" />][vim]
 
 <br />
+<br />
+<br />
 
-### 常に新しい言語やフレームワークにトライし続けていますので、上記以外の言語やスキルも対応可能です
+> 常に新しい言語やフレームワークにトライし続けていますので、上記以外の言語やスキルも対応可能です
 
 <br />
 <br />
@@ -164,9 +166,10 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
-- [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
+
+- [「fish shell」を導入したら、システム開発の作業効率が改善したよ ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
+- [VS Code の settings.json を公開 ❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
+- [生産性が向上する Alfred 4 を使いこなそう ❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
 - [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
@@ -187,11 +190,12 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-- [私はなぜIT企業に入社したのか❗❓](https://note.com/digiangler777/n/n7ede1cbd2a7e)
-- [私が働いていたSES企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
+
+- [私はなぜ IT 企業に入社したのか ❗❓](https://note.com/digiangler777/n/n7ede1cbd2a7e)
+- [私が働いていた SES 企業での多重下請け構造について](https://note.com/digiangler777/n/n399ca3d496b2)
 - [続「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/ncfa17cc3072c)
-- [優秀な人は実は稼げない❗❓](https://note.com/digiangler777/n/nb39cf4837188)
-- [「吸う」より「吐く」を意識しよう❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
+- [優秀な人は実は稼げない ❗❓](https://note.com/digiangler777/n/nb39cf4837188)
+- [「吸う」より「吐く」を意識しよう ❗](https://note.com/digiangler777/n/nf33e0e0ba4d6)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
@@ -203,11 +207,12 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+
 - [パソコンがクラッシュしたときの対処法](https://medium.com/@digiangler/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%8C%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95-e2beddeea17e?source=rss-4f4f58d46ad9------2)
 - [アイディアを生み出すヒントをくれる一冊](https://medium.com/@digiangler/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E3%83%92%E3%83%B3%E3%83%88%E3%82%92%E3%81%8F%E3%82%8C%E3%82%8B%E4%B8%80%E5%86%8A-f449bf75663?source=rss-4f4f58d46ad9------2)
-- [努力に逃げたら負ける❗](https://medium.com/@digiangler/%E5%8A%AA%E5%8A%9B%E3%81%AB%E9%80%83%E3%81%91%E3%82%99%E3%81%9F%E3%82%89%E8%B2%A0%E3%81%91%E3%82%8B-6b9a0fdd56c9?source=rss-4f4f58d46ad9------2)
-- [結局は自分次第だよ❗](https://medium.com/@digiangler/%E7%B5%90%E5%B1%80%E3%81%AF%E8%87%AA%E5%88%86%E6%AC%A1%E7%AC%AC%E3%81%A0%E3%82%88-e54dbf842399?source=rss-4f4f58d46ad9------2)
-- [アプリを整理してスッキリさせよう❗](https://medium.com/@digiangler/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%95%E3%81%9B%E3%82%88%E3%81%86-3b2d4db16a77?source=rss-4f4f58d46ad9------2)
+- [努力に逃げたら負ける ❗](https://medium.com/@digiangler/%E5%8A%AA%E5%8A%9B%E3%81%AB%E9%80%83%E3%81%91%E3%82%99%E3%81%9F%E3%82%89%E8%B2%A0%E3%81%91%E3%82%8B-6b9a0fdd56c9?source=rss-4f4f58d46ad9------2)
+- [結局は自分次第だよ ❗](https://medium.com/@digiangler/%E7%B5%90%E5%B1%80%E3%81%AF%E8%87%AA%E5%88%86%E6%AC%A1%E7%AC%AC%E3%81%A0%E3%82%88-e54dbf842399?source=rss-4f4f58d46ad9------2)
+- [アプリを整理してスッキリさせよう ❗](https://medium.com/@digiangler/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%95%E3%81%9B%E3%82%88%E3%81%86-3b2d4db16a77?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
