@@ -15,8 +15,7 @@
 ### 内臓と内臓を擦れ合う関係を築いていければと思っております 👥
 
 > 元 SIer で SE として某メーカーの組み込みシステム開発や医療システムの開発を経験｜ 2011 年、セールスライティングのスキルを学び、脱サラ、ライターになる｜ 2019 年、SE の血が騒ぎ出しカムバック｜現在は最新の技術を学びながら、Web 系エンジニア兼デザイナーとライターのフルスタックを楽しんでいます。無類のコーヒー好き ☕️
-
-<br />
+> <br />
 
 ### Spotify Playing 🎧
 
@@ -27,8 +26,7 @@
 ### Connect with me:
 
 > 📌 ソーシャルメディア
-
-[<img align="left" alt="Digi-Angler" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+> [<img align="left" alt="Digi-Angler" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Digi-Angler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
@@ -47,8 +45,7 @@
 ### Languages:
 
 > 📌 対応可能なプログラミング言語
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+> [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 
@@ -75,8 +72,7 @@
 ### Frameworks and Libraries:
 
 > 📌 対応可能なフレームワークやライブラリ
-
-[<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jquery]
+> [<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jquery]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
@@ -111,8 +107,7 @@
 ### Databases:
 
 > 📌 対応可能なデータベース
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+> [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 
@@ -127,8 +122,7 @@
 ### Server and Tools:
 
 > 📌 対応可能なサーバーやツール
-
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+> [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
 
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
 
@@ -157,9 +151,8 @@
 <br />
 
 > 常に新しい言語やフレームワークにトライし続けていますので、上記以外の言語やスキルも対応可能です
-
-<br />
-<br />
+> <br />
+> <br />
 
 ---
 
