@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [年始のご挨拶](https://note.com/digiangler777/n/n9c1642b97c3a)
 - [今年の振り返り…来年の目標…](https://note.com/digiangler777/n/nef84b2c276bc)
 - [2020年もシングルオリジンコーヒーをたくさん飲んだ☕️](https://note.com/digiangler777/n/ncc63bcc70aca)
 - [【2020年版】Macユーザーおすすめアプリ〜便利アプリ編〜 Vol.3](https://note.com/digiangler777/n/nf84e78c81283)
 - [【2020年版】Macユーザーおすすめアプリ〜便利アプリ編〜 Vol.2](https://note.com/digiangler777/n/nb42f0ca9fa3f)
-- [アウトプットでお悩みの方へ](https://note.com/digiangler777/n/nf333167dbf2d)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
