@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [目標は他人から与えられても駄目。目標はいつも自分の中から生まれてくるべきなんだ。](https://note.com/digiangler777/n/n168bdfe3e352)
 - [Visual Studio Code 自作拡張機能を作ってみた❗](https://note.com/digiangler777/n/nb62944ca2ed6)
 - [名刺代わりの古典小説10選](https://note.com/digiangler777/n/nb9b37ecd8ea7)
 - [2021年に携わりたいプログラミング言語](https://note.com/digiangler777/n/n62b93b5f8a24)
 - [年始のご挨拶](https://note.com/digiangler777/n/n9c1642b97c3a)
-- [今年の振り返り…来年の目標…](https://note.com/digiangler777/n/nef84b2c276bc)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
