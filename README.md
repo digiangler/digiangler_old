@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [Macアプリ + iOS アプリ使い放題のサブスクリプションサービス「Setapp」に登録してみた❗](https://note.com/digiangler777/n/nf561f1c53c38)
 - [続々「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/na1687d919d61)
 - [Git コマンド Cheat Sheets](https://note.com/digiangler777/n/n1bed4794ed78)
 - [MacBook Pro の Touch Bar に macOS Dock を表示させる方法](https://note.com/digiangler777/n/n98bb56e800bf)
 - [目標は他人から与えられても駄目。目標はいつも自分の中から生まれてくるべきなんだ。](https://note.com/digiangler777/n/n168bdfe3e352)
-- [Visual Studio Code 自作拡張機能を作ってみた❗](https://note.com/digiangler777/n/nb62944ca2ed6)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
