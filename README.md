@@ -202,11 +202,11 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+- [MacBook Pro の Touch Bar に macOS Dock を表示させる方法](https://digiangler.medium.com/macbook-pro-%E3%81%AE-touch-bar-%E3%81%AB-macos-dock-%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95-14377875d6b0?source=rss-4f4f58d46ad9------2)
 - [目標は他人から与えられても駄目。目標はいつも自分の中から生まれてくるべきなんだ。](https://digiangler.medium.com/%E7%9B%AE%E6%A8%99%E3%81%AF%E4%BB%96%E4%BA%BA%E3%81%8B%E3%82%89%E4%B8%8E%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%82%82%E9%A7%84%E7%9B%AE-%E7%9B%AE%E6%A8%99%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E8%87%AA%E5%88%86%E3%81%AE%E4%B8%AD%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8F%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0-af68a2707b90?source=rss-4f4f58d46ad9------2)
 - [Visual Studio Code 自作拡張機能を作ってみた❗](https://digiangler.medium.com/visual-studio-code-%E8%87%AA%E4%BD%9C%E6%8B%A1%E5%BC%B5%E6%A9%9F%E8%83%BD%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-32bd98a2406a?source=rss-4f4f58d46ad9------2)
 - [名刺代わりの古典小説10選](https://digiangler.medium.com/%E5%90%8D%E5%88%BA%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AE%E5%8F%A4%E5%85%B8%E5%B0%8F%E8%AA%AC10%E9%81%B8-3d058f4e5818?source=rss-4f4f58d46ad9------2)
 - [2021年に携わりたいプログラミング言語](https://digiangler.medium.com/2021%E5%B9%B4%E3%81%AB%E6%90%BA%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E-a8fe2440cfc8?source=rss-4f4f58d46ad9------2)
-- [今年やりたいこと・目標](https://digiangler.medium.com/%E4%BB%8A%E5%B9%B4%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8-%E7%9B%AE%E6%A8%99-2775ee0c19a1?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
