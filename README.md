@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [今日の名言 #01](https://note.com/digiangler777/n/nee822092dc3b)
 - ["続"ファイル＆フォルダ整理術〜重複ファイルの検索とリネームを素早く簡単にできるアプリ〜](https://note.com/digiangler777/n/na81b398b895f)
 - [おおとろ直伝〜ファイル＆フォルダ整理術〜](https://note.com/digiangler777/n/n305c8c3c3152)
 - [CleanMyMac X というアプリを使ってみたら、機能がオールマイティーで想像以上の効果に大満足でした❗](https://note.com/digiangler777/n/n9c5944ebb427)
 - [Macアプリ + iOS アプリ使い放題のサブスクリプションサービス「Setapp」に登録してみた❗](https://note.com/digiangler777/n/nf561f1c53c38)
-- [続々「おおとろの世界文学マップ」その後の予定](https://note.com/digiangler777/n/na1687d919d61)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
