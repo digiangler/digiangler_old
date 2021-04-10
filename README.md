@@ -1,6 +1,6 @@
 ### Hi there, I'm [Digi-Angler][website] 👋
 
-[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/2021_twitter-banner-01-00.png?raw=true" />](https://github.com/digiangler)
+[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/2021_twitter-banner-02-03.png" />](https://github.com/digiangler)
 
 [![GitHub followers](https://img.shields.io/github/followers/digiangler?style=for-the-badge)](https://github.com/digiangler)
 [![Twitter Follow](https://img.shields.io/twitter/follow/digiangler?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdigiangler&screen_name=digiangler)
