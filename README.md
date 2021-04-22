@@ -202,11 +202,11 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+- [CleanMyMac X というアプリを使ってみたら、機能がオールマイティーで想像以上の効果に大満足でした❗](https://digiangler.medium.com/cleanmymac-x-%E3%81%A8%E3%81%84%E3%81%86%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%89-%E6%A9%9F%E8%83%BD%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%86%E3%82%A3%E3%83%BC%E3%81%A7%E6%83%B3%E5%83%8F%E4%BB%A5%E4%B8%8A%E3%81%AE%E5%8A%B9%E6%9E%9C%E3%81%AB%E5%A4%A7%E6%BA%80%E8%B6%B3%E3%81%A7%E3%81%97%E3%81%9F-5a199fc986e8?source=rss-4f4f58d46ad9------2)
 - [Macアプリ + iOS アプリ使い放題のサブスクリプションサービス「Setapp」に登録してみた❗](https://digiangler.medium.com/mac%E3%82%A2%E3%83%97%E3%83%AA-ios-%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%BF%E3%81%84%E6%94%BE%E9%A1%8C%E3%81%AE%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-setapp-%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-b44d70424f1d?source=rss-4f4f58d46ad9------2)
 - [続々「おおとろの世界文学マップ」その後の予定](https://digiangler.medium.com/%E7%B6%9A%E3%80%85-%E3%81%8A%E3%81%8A%E3%81%A8%E3%82%8D%E3%81%AE%E4%B8%96%E7%95%8C%E6%96%87%E5%AD%A6%E3%83%9E%E3%83%83%E3%83%97-%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E4%BA%88%E5%AE%9A-dc291b746409?source=rss-4f4f58d46ad9------2)
 - [Git コマンド Cheat Sheets](https://digiangler.medium.com/git-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89-cheat-sheets-3e2e1f5d4987?source=rss-4f4f58d46ad9------2)
 - [MacBook Pro の Touch Bar に macOS Dock を表示させる方法](https://digiangler.medium.com/macbook-pro-%E3%81%AE-touch-bar-%E3%81%AB-macos-dock-%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95-14377875d6b0?source=rss-4f4f58d46ad9------2)
-- [目標は他人から与えられても駄目。目標はいつも自分の中から生まれてくるべきなんだ。](https://digiangler.medium.com/%E7%9B%AE%E6%A8%99%E3%81%AF%E4%BB%96%E4%BA%BA%E3%81%8B%E3%82%89%E4%B8%8E%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%82%82%E9%A7%84%E7%9B%AE-%E7%9B%AE%E6%A8%99%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E8%87%AA%E5%88%86%E3%81%AE%E4%B8%AD%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8F%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0-af68a2707b90?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
