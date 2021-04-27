@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [dotfiles + GitHub で環境構築できるようになりましょう](https://note.com/digiangler777/n/n27f830a36f4e)
 - [初めての大規模システム開発に携わったときのお話](https://note.com/digiangler777/n/n24e80d46f171)
 - [Mac 環境の音質を劇的に向上させる方法](https://note.com/digiangler777/n/n2433ca4b7915)
 - [おおとろのローカル開発環境を丸裸にしました〜 Visual Studio Code 編 〜](https://note.com/digiangler777/n/n5c3b1bbeac1d)
 - [今日の名言 #01](https://note.com/digiangler777/n/nee822092dc3b)
-- ["続"ファイル＆フォルダ整理術〜重複ファイルの検索とリネームを素早く簡単にできるアプリ〜](https://note.com/digiangler777/n/na81b398b895f)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
