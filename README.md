@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [CheatSheet というアプリが超便利ですよ！](https://note.com/digiangler777/n/n9947f9eb037f)
 - [かゆいところに手が届く Mac 向けアプリ 3 選](https://note.com/digiangler777/n/na346d585cfb9)
 - [「asdf」というバージョン管理ツールで環境構築をしよう❗](https://note.com/digiangler777/n/n7252a15d2f67)
 - [dotfiles + GitHub で環境構築できるようになりましょう](https://note.com/digiangler777/n/n27f830a36f4e)
 - [初めての大規模システム開発に携わったときのお話](https://note.com/digiangler777/n/n24e80d46f171)
-- [Mac 環境の音質を劇的に向上させる方法](https://note.com/digiangler777/n/n2433ca4b7915)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
