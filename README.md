@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [”ウマ娘 プリティーダービー”というゲームをやってみた](https://note.com/digiangler777/n/nc58ec2bb370c)
 - [MERNスタック：「Signin with Google」の実装が簡単に](https://note.com/digiangler777/n/ne3b304d3de00)
 - [CheatSheet というアプリが超便利ですよ！](https://note.com/digiangler777/n/n9947f9eb037f)
 - [かゆいところに手が届く Mac 向けアプリ 3 選](https://note.com/digiangler777/n/na346d585cfb9)
 - [「asdf」というバージョン管理ツールで環境構築をしよう❗](https://note.com/digiangler777/n/n7252a15d2f67)
-- [dotfiles + GitHub で環境構築できるようになりましょう](https://note.com/digiangler777/n/n27f830a36f4e)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
