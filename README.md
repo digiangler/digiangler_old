@@ -202,11 +202,11 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+- [CheatSheet というアプリが超便利ですよ！](https://digiangler.medium.com/cheatsheet-%E3%81%A8%E3%81%84%E3%81%86%E3%82%A2%E3%83%97%E3%83%AA%E3%81%8C%E8%B6%85%E4%BE%BF%E5%88%A9%E3%81%A7%E3%81%99%E3%82%88-dd5f945ecac5?source=rss-4f4f58d46ad9------2)
 - [かゆいところに手が届く Mac 向けアプリ 3 選](https://digiangler.medium.com/%E3%81%8B%E3%82%86%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AB%E6%89%8B%E3%81%8C%E5%B1%8A%E3%81%8F-mac-%E5%90%91%E3%81%91%E3%82%A2%E3%83%97%E3%83%AA-3-%E9%81%B8-4e1e0e4e9bd7?source=rss-4f4f58d46ad9------2)
 - [「asdf」というバージョン管理ツールで環境構築をしよう❗](https://digiangler.medium.com/asdf-%E3%81%A8%E3%81%84%E3%81%86%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A7%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%82%92%E3%81%97%E3%82%88%E3%81%86-147039131ab5?source=rss-4f4f58d46ad9------2)
 - [dotfiles + GitHub で環境構築できるようになりましょう](https://digiangler.medium.com/dotfiles-github-%E3%81%A7%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%82%87%E3%81%86-fe9a1b286665?source=rss-4f4f58d46ad9------2)
 - [初めての大規模システム開発に携わったときのお話](https://digiangler.medium.com/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AB%E6%90%BA%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%8A%E8%A9%B1-fcc41ed910a?source=rss-4f4f58d46ad9------2)
-- [Mac 環境の音質を劇的に向上させる方法](https://digiangler.medium.com/mac-%E7%92%B0%E5%A2%83%E3%81%AE%E9%9F%B3%E8%B3%AA%E3%82%92%E5%8A%87%E7%9A%84%E3%81%AB%E5%90%91%E4%B8%8A%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95-7b378c4fbc5c?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
 
 [more Medium posts...](https://medium.com/@digiangler)
