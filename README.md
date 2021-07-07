@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [Bartender 4 というアプリを使ってみたら、想像以上の便利さでした❗](https://note.com/digiangler777/n/n7a5116896be3)
 - [Notion でバレットジャーナル風のスケジュール管理と技術ノートを作成（仮）](https://note.com/digiangler777/n/na78957cf9825)
 - [BetterTouchTool で作業効率を上げませんか❓](https://note.com/digiangler777/n/n66c2ca47db78)
 - [SpaceVim を導入してみた❗](https://note.com/digiangler777/n/n46c444424495)
 - [エンジニアに役立つおすすめアプリ 2 選](https://note.com/digiangler777/n/n0387bceab5b8)
-- [”ウマ娘 プリティーダービー”というゲームをやってみた](https://note.com/digiangler777/n/nc58ec2bb370c)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
