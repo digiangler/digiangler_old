@@ -186,11 +186,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [Mac ユーザー向けサブスク「Setapp」を知っていますか❓](https://note.com/digiangler777/n/n99da8f402ec3)
 - ["続" 2021 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/n969c47b12925)
 - [3 ステップ読書 〜ビジネス書編〜](https://note.com/digiangler777/n/n20bdca8fa51b)
 - [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n7a329bca04b5)
 - [ポートフォリオサイトを Glassmorphism の UI デザインにリニューアルしようかな❓](https://note.com/digiangler777/n/n69d1db078cf8)
-- [本格的に Notion を使い始めました](https://note.com/digiangler777/n/n8226f56e9bf6)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
