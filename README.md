@@ -10,7 +10,7 @@
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?digiangler=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## A passionate Full-Stack Web Developer and Designer from Japan 🚀
 
@@ -23,7 +23,7 @@
 
 ### Spotify Playing 🎧
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
 
 ---
 
