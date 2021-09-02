@@ -1,6 +1,6 @@
 ### Hi there, I'm [Digi-Angler][website] 👋
 
-[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/2021_twitter-banner-02-03.png" />](https://github.com/digiangler)
+[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/2021_twitter-banner-02-04.png" />](https://github.com/digiangler)
 
 [![GitHub followers](https://img.shields.io/github/followers/digiangler?style=for-the-badge)](https://github.com/digiangler)
 [![Twitter Follow](https://img.shields.io/twitter/follow/digiangler?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdigiangler&screen_name=digiangler)
@@ -8,13 +8,17 @@
 [<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />][slack]
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
-## I'm Front-end Engineer (Back end), Designer, Writer in Japan 🚀
+## 🏆 GitHub Profile Trophy
 
-## Love TypeScript, React, Python, PostgreSQL ⚡
+[![trophy](https://github-profile-trophy.vercel.app/?digiangler=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## A passionate Full-Stack Web Developer and Designer from Japan 🚀
+
+## Love TypeScript, React, Python, PostgreSQL, Docker ⚡
 
 ### 内臓と内臓を擦れ合う関係を築いていければと思っております 👥
 
-> 元 SIer で SE として某メーカーの組み込みシステム開発や医療システムの開発を経験｜ 2011 年、セールスライティングのスキルを学び、脱サラ、ライターになる｜ 2019 年、SE の血が騒ぎ出しカムバック｜現在は最新の技術を学びながら、Web 系エンジニア兼デザイナーとライターのフルスタックを楽しんでいます。無類のコーヒー好き ☕️
+> 元 SIer で SE として某メーカーの組み込みシステム開発や医療システムの開発を経験｜ 2011 年、セールスライティングのスキルを学び、脱サラ、ライターになる｜ 2019 年、SE の血が騒ぎ出しカムバック｜現在は最新の技術を学びながら、フルスタック Web 系エンジニア兼デザイナーとライターのフルスタックを楽しんでいます。無類のコーヒー好き ☕️
 > <br />
 
 ### Spotify Playing 🎧
@@ -27,19 +31,19 @@
 
 > 📌 ソーシャルメディア
 
-[<img align="left" alt="Digi-Angler" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Digi-Angler" width="22px" src="https://img.icons8.com/emoji/48/000000/house-emoji.png" />][website]
 
-[<img align="left" alt="Digi-Angler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Digi-Angler | YouTube" width="22px" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" />][youtube]
 
-[<img align="left" alt="Digi-Angler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Digi-Angler | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 
-[<img align="left" alt="Digi-Angler | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Digi-Angler | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 
-[<img align="left" alt="Digi-Angler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Digi-Angler | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-[<img align="left" alt="Digi-Angler | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
+[<img align="left" alt="Digi-Angler | Slack" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
 
-[<img align="left" alt="Digi-Angler | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Digi-Angler | Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
 
 <br />
 
@@ -170,9 +174,10 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
-- [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
+
+- [「fish shell」を導入したら、システム開発の作業効率が改善したよ ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
+- [VS Code の settings.json を公開 ❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
+- [生産性が向上する Alfred 4 を使いこなそう ❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
 - [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
@@ -186,11 +191,12 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-- [ポモドーロで時間を管理したら、生産性を大きく高めることができました❗](https://note.com/digiangler777/n/n1af095edcac3)
-- [Mac ユーザー向けサブスク「Setapp」を知っていますか❓](https://note.com/digiangler777/n/n99da8f402ec3)
+
+- [ポモドーロで時間を管理したら、生産性を大きく高めることができました ❗](https://note.com/digiangler777/n/n1af095edcac3)
+- [Mac ユーザー向けサブスク「Setapp」を知っていますか ❓](https://note.com/digiangler777/n/n99da8f402ec3)
 - ["続" 2021 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/n969c47b12925)
 - [3 ステップ読書 〜ビジネス書編〜](https://note.com/digiangler777/n/n20bdca8fa51b)
-- [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n7a329bca04b5)
+- [ソースコードの写経は効果的か ❓ 無駄か ❓](https://note.com/digiangler777/n/n7a329bca04b5)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
@@ -202,9 +208,10 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+
 - [Notion でバレットジャーナル風のスケジュール管理と技術ノートを作成（仮）](https://digiangler.medium.com/notion-%E3%81%A7%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB%E9%A2%A8%E3%81%AE%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%81%A8%E6%8A%80%E8%A1%93%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90-%E4%BB%AE-1b43a6a4f751?source=rss-4f4f58d46ad9------2)
-- [BetterTouchTool で作業効率を上げませんか❓](https://digiangler.medium.com/bettertouchtool-%E3%81%A7%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%82%92%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-3e928a4cfedc?source=rss-4f4f58d46ad9------2)
-- [SpaceVim を導入してみた❗](https://digiangler.medium.com/spacevim-%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-60348439f419?source=rss-4f4f58d46ad9------2)
+- [BetterTouchTool で作業効率を上げませんか ❓](https://digiangler.medium.com/bettertouchtool-%E3%81%A7%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%82%92%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-3e928a4cfedc?source=rss-4f4f58d46ad9------2)
+- [SpaceVim を導入してみた ❗](https://digiangler.medium.com/spacevim-%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-60348439f419?source=rss-4f4f58d46ad9------2)
 - [エンジニアに役立つおすすめアプリ 2 選](https://digiangler.medium.com/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%A2%E3%83%97%E3%83%AA-2-%E9%81%B8-1d8406a905a8?source=rss-4f4f58d46ad9------2)
 - [”ウマ娘 プリティーダービー”というゲームをやってみた](https://digiangler.medium.com/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC-%E3%81%A8%E3%81%84%E3%81%86%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-101921d23c56?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
