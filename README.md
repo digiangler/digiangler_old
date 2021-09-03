@@ -97,7 +97,7 @@
 
 [<img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />][redux]
 
-[<img align="left" alt="Gatsby" width="26px" src="<img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" />][gatsby]
+[<img align="left" alt="Gatsby" width="26px" src="https://img.icons8.com/color/48/000000/gatsbyjs.png" />][gatsby]
 
 [<img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />][angular]
 
