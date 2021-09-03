@@ -8,28 +8,26 @@
 [<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />][slack]
 [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
-## 🏆 GitHub Profile Trophy
+## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/1358/PNG/512/if-advantage-quality-1034364_88845.png" /> GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=digiangler&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## A passionate Full-Stack Web Developer and Designer from Japan 🚀
+## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/966/PNG/128/News_icon-icons.com_74697.png" /> A passionate Full-Stack Web Developer and Designer from Japan.
 
-## Love TypeScript, React, Python, PostgreSQL, Docker ⚡
+## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/966/PNG/128/ERP_icon-icons.com_74692.png" /> Love TypeScript, React, Python, PostgreSQL, Docker.
 
-### 内臓と内臓を擦れ合う関係を築いていければと思っております 👥
+### <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/966/PNG/128/ManageUsers_icon-icons.com_74696.png" /> 内臓と内臓を擦れ合う関係を築いていければと思っております。
 
 > 元 SIer で SE として某メーカーの組み込みシステム開発や医療システムの開発を経験｜ 2011 年、セールスライティングのスキルを学び、脱サラ、ライターになる｜ 2019 年、SE の血が騒ぎ出しカムバック｜現在は最新の技術を学びながら、フルスタック Web 系エンジニア兼デザイナーとライターのフルスタックを楽しんでいます。無類のコーヒー好き ☕️
 > <br />
 
-### Spotify Playing 🎧
+### <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/spotify_alt_macos_bigsur_icon_189704.png" /> Spotify Playing
 
 [<img src="https://spotify-now-playing-seven.vercel.app/api/spotify-playing" alt="Digi-Angler Spotify Playing" width="350" />](https://open.spotify.com/user/7zkt2748z5boqwalbplgbmnbx)
 
 ---
 
 ### Connect with me:
-
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" />ソーシャルメディア
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" />][twitter]
 
@@ -87,8 +85,6 @@
 
 ### Frameworks and Libraries:
 
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" />対応可能なフレームワークやライブラリ
-
 [<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />][tailwindcss]
 
 [<img align="left" alt="JQuery" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_logo_icon_146444.png" />][jquery]
@@ -131,8 +127,6 @@
 
 ### Databases:
 
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" />対応可能なデータベース
-
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />][mysql]
 
 [<img align="left" alt="MariaDB" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" />][mariadb]
@@ -149,8 +143,6 @@
 
 ### OS and Server:
 
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" />対応可能な OS / サーバ
-
 [<img align="left" alt="Linux" width="26px" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" />][linux]
 
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" />][ubuntu]
@@ -161,15 +153,11 @@
 
 ### Containers:
 
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なコンテナ
-
 [<img align="left" alt="Docker" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" />][docker]
 
 <br />
 
 ### Tools:
-
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" />対応可能なツール
 
 [<img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/aws_socialnetwork_19992.png" />][aws]
 
@@ -185,19 +173,41 @@
 
 [<img align="left" alt="iTerm" width="26px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png" />][iterm]
 
-[<img align="left" alt="Vim" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" />][vim]
+[<img align="left" alt="Slack" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/slack_macos_bigsur_icon_189725.png" />][slack]
+
+[<img align="left" alt="Asana" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/asana_logo_icon_167830.png" />][asana]
+
+[<img align="left" alt="Jira" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />][jira]
+
+<br />
+
+### Designs:
+
+[<img align="left" alt="Figma" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" />][figma]
+
+[<img align="left" alt="Adobe Xd" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png" />][figma]
+
+[<img align="left" alt="Affinity Photo" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/affinity_photo_macos_bigsur_icon_190421.png" />][affinityphoto]
+
+[<img align="left" alt="Affinity Designer" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/affinity_designer_macos_bigsur_icon_189486.png" />][affinitydesigner]
+
+[<img align="left" alt="Affinity Publisher" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/affinity_publisher_macos_bigsur_icon_190419.png" />][affinitypublisher]
 
 <br />
 
 ### Editors:
 
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なエディタ
+[<img align="left" alt="Vim" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" />][vim]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189951.png" />][vscode]
+
+[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />][intellij]
 
 [<img align="left" alt="Atom" width="26px" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/atom_103345.png" />][atom]
 
 [<img align="left" alt="Sublime Text" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/sublime_text_macos_bigsur_icon_189685.png" />][sublimetext]
+
+[<img align="left" alt="Notion" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/notion_alt_macos_bigsur_icon_189899.png" />][notion]
 
 <br />
 <br />
@@ -339,12 +349,22 @@
 [aws]: https://aws.amazon.com/
 [googlecloud]: https://cloud.google.com
 [firebase]: https://firebase.google.com
-[vscode]: https://azure.microsoft.com/ja-jp/products/visual-studio-code
-[atom]: https://atom.io
-[sublimetext]: https://www.sublimetext.com
 [homebrew]: https://brew.sh
 [docker]: https://www.docker.com
 [git]: https://git-scm.com
 [github]: https://github.com
 [iterm]: https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_(macOS)
-[vim]: https://www.vim.org/
+[slack]: https://app.slack.com
+[asana]: https://app.asana.com
+[jira]: https://digi-angler.atlassian.net/jira
+[vim]: https://www.vim.org
+[figma]: https://www.figma.com
+[xd]: https://www.figma.com
+[affinityphoto]: https://affinity.serif.com/ja-jp/photo
+[affinitydesigner]: https://affinity.serif.com/ja-jp/designer
+[affinitypublisher]: https://affinity.serif.com/ja-jp/publisher
+[vscode]: https://azure.microsoft.com/ja-jp/products/visual-studio-code
+[intellij]: https://www.jetbrains.com/ja-jp/idea
+[atom]: https://atom.io
+[sublimetext]: https://www.sublimetext.com
+[notion]: https://www.notion.so
