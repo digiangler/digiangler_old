@@ -29,99 +29,119 @@
 
 ### Connect with me:
 
-> 📌 ソーシャルメディア
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> ソーシャルメディア
 
-[<img align="left" alt="Digi-Angler" width="22px" src="https://img.icons8.com/emoji/48/000000/house-emoji.png" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" />][twitter]
 
-[<img align="left" alt="Digi-Angler | YouTube" width="22px" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" />][facebook]
 
-[<img align="left" alt="Digi-Angler | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/instagram_logo_icon_168715.png" />][instagram]
 
-[<img align="left" alt="Digi-Angler | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube]
 
-[<img align="left" alt="Digi-Angler | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
 
-[<img align="left" alt="Digi-Angler | Slack" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
+[<img align="left" alt="Dribbble" width="22px" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721682-dribbble_108057.png" />][dribbble]
 
-[<img align="left" alt="Digi-Angler | Discord" width="22px" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" />][discord]
+[<img align="left" alt="note" width="22px" src="https://d2l930y2yx77uc.cloudfront.net/assets/default/default_note_logo-100a27d592505c50c29b032c0554570c955f312b8937727c8777fd87b3068c71.png" />][note]
+
+[<img align="left" alt="Slack" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/slack_icon_130829.png" />][slack]
+
+[<img align="left" alt="Discord" width="22px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/discord_alt_macos_bigsur_icon_190236.png" />][discord]
 
 <br />
 
 ### Languages:
 
-> 📌 対応可能なプログラミング言語
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なプログラミング言語
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" />][html5]
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" />][css3]
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png" />][sass]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" />][javascript]
 
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
+[<img align="left" alt="TypeScript" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" />][typescript]
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Python" width="26px" src="<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png"/>" />][python]
 
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][r]
 
-[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
+[<img align="left" alt="Go" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" />][go]
 
-[<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
+[<img align="left" alt="Ruby" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" />][ruby]
+
+[<img align="left" alt="PHP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" />][php]
+
+[<img align="left" alt="Csharp" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" />][csharp]
+
+[<img align="left" alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />][sql]
 
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
 
-[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />][markdown]
+[<img align="left" alt="Markdown" width="26px" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" />][markdown]
 
 <br />
 
 ### Frameworks and Libraries:
 
-> 📌 対応可能なフレームワークやライブラリ
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なフレームワークやライブラリ
 
-[<img align="left" alt="JQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jquery]
+[<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />][tailwindcss]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="JQuery" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_logo_icon_146444.png" />][jquery]
 
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
+[<img align="left" alt="React" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />][react]
 
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][gatsby]
+[<img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />][redux]
 
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
+[<img align="left" alt="Gatsby" width="26px" src="<img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>" />][gatsby]
 
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
+[<img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />][angular]
 
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
+[<img align="left" alt="Vue" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />][vue]
 
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+[<img align="left" alt="NestJS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" />][nestjs]
 
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" />][django]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" />][graphql]
 
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flask/flask.png" />][flask]
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" />][bootstrap]
 
-[<img align="left" alt="JupyterLab" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jupyter-notebook/jupyter-notebook.png" />][jupyter]
+[<img align="left" alt="Django" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />][django]
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" />][flask]
 
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][deno]
+[<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][flutter]
 
-[<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" />][npm]
+[<img align="left" alt="JupyterLab" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" />][jupyter]
 
-[<img align="left" alt="ESLint" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/eslint/eslint.png" />][eslint]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" />][node]
+
+[<img align="left" alt="Deno" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/deno_logo_icon_145346.png" />][deno]
+
+[<img align="left" alt="npm" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" />][npm]
+
+[<img align="left" alt="ESLint" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_eslint_icon_130613.png" />][eslint]
+
+[<img align="left" alt="Prettier" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prettier_icon_130235.png" />][rettier]
 
 <br />
 
 ### Databases:
 
-> 📌 対応可能なデータベース
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なデータベース
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />][mysql]
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MariaDB" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" />][mariadb]
 
-[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" />][postgresql]
 
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img align="left" alt="SQLite" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_170706.png" />][sqlite]
+
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />][mongodb]
 
 [<img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />][mongoose]
 
@@ -129,31 +149,49 @@
 
 ### Server and Tools:
 
-> 📌 対応可能なサーバーやツール
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能な OS / サーバ
 
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+[<img align="left" alt="Linux" width="26px" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png" />][linux]
 
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
+[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" />][ubuntu]
 
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][aws]
+[<img align="left" alt="Nginx" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nginx_logo_icon_169915.png" />][nginx]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+<br />
 
-[<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />][atom]
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なコンテナ
 
-[<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublimetext]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" />][docker]
 
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+<br />
+
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なツール
+
+[<img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/aws_socialnetwork_19992.png" />][aws]
+
+[<img align="left" alt="Firebase" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png" />][firebase]
+
+[<img align="left" alt="Google Cloud" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_171058.png" />][googlecloud]
 
 [<img align="left" alt="Homebrew" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" />][homebrew]
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" />][git]
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/github_logo_icon_169115.png" />][github]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="iTerm" width="26px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png" />][iterm]
 
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vim/vim.png" />][vim]
+[<img align="left" alt="Vim" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" />][vim]
+
+<br />
+
+<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" /> 対応可能なエディタ
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189951.png" />][vscode]
+
+[<img align="left" alt="Atom" width="26px" src="https://cdn.icon-icons.com/icons2/1495/PNG/512/atom_103345.png" />][atom]
+
+[<img align="left" alt="Sublime Text" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/sublime_text_macos_bigsur_icon_189685.png" />][sublimetext]
 
 <br />
 <br />
@@ -241,11 +279,13 @@
 
 </details>
 
-[website]: https://note.com/digiangler777
+[note]: https://note.com/digiangler777
 [twitter]: https://twitter.com/digiangler
+[facebook]: https://facebook.com
 [youtube]: https://youtube.com
 [instagram]: https://instagram.com/digi_angler
 [linkedin]: https://linkedin.com/in/digiangler
+[dribbble]: https://dribbble.com/digi-angler
 [slack]: https://join.slack.com/t/otorosecretstyles/shared_invite/zt-gm2ovk76-vgttyWrCv7N5tIFHbaVA1Q
 [discord]: https://discord.gg/yw9bZJ
 [html5]: https://www.w3.org/TR/html53
@@ -256,32 +296,43 @@
 [python]: https://www.python.org
 [r]: https://cran.r-project.org
 [go]: https://go.dev
+[php]: https://www.php.net
+[ruby]: https://www.ruby-lang.org/ja
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
+[sql]: https://ja.wikipedia.org/wiki/SQL
 [json]: https://www.json.org/json-en.html
 [markdown]: https://daringfireball.net/projects/markdown
+[tailwindcss]: https://tailwindcss.com
 [jquery]: https://jquery.com
 [react]: https://reactjs.org
 [redux]: https://redux.js.org
 [gatsby]: https://www.gatsbyjs.com
 [angular]: https://angular.io
 [vue]: https://vuejs.org
+[nestjs]: https://nestjs.com
 [graphql]: https://graphql.org
 [bootstrap]: https://getbootstrap.com
 [django]: https://www.djangoproject.com
 [flask]: https://flask.palletsprojects.com/en/1.1.x
+[flutter]: https://flutter.dev
 [jupyter]: https://jupyter.org
 [node]: https://nodejs.org/en
 [deno]: https://deno.land
 [npm]: https://www.npmjs.com
 [eslint]: https://eslint.org
-[sql]: https://ja.wikipedia.org/wiki/SQL
+[prettier]: https://prettier.io
 [mysql]: https://www.mysql.com
+[mariadb]: https://mariadb.com
 [postgresql]: https://www.postgresql.org
+[sqlite]: https://www.sqlite.org
 [mongodb]: https://www.mongodb.com
 [mongoose]: https://mongoosejs.com
+[linux]: https://www.kernel.org
 [ubuntu]: https://ubuntu.com
-[firebase]: https://firebase.google.com
+[nginx]: https://www.nginx.com
 [aws]: https://aws.amazon.com/
+[googlecloud]: https://cloud.google.com
+[firebase]: https://firebase.google.com
 [vscode]: https://azure.microsoft.com/ja-jp/products/visual-studio-code
 [atom]: https://atom.io
 [sublimetext]: https://www.sublimetext.com
@@ -289,5 +340,5 @@
 [docker]: https://www.docker.com
 [git]: https://git-scm.com
 [github]: https://github.com
-[terminal]: https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_(macOS)
+[iterm]: https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_(macOS)
 [vim]: https://www.vim.org/
