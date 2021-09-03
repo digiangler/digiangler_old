@@ -51,8 +51,6 @@
 
 ### Languages:
 
-<img align="left" alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/129/PNG/512/3d_systempreferences_folder_20519.png" />対応可能なプログラミング言語
-
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" />][html5]
 
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" />][css3]
@@ -75,6 +73,8 @@
 
 [<img align="left" alt="Csharp" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" />][csharp]
 
+[<img align="left" alt="Dart" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ng_component_dart_icon_130352.png" />][dart]
+
 [<img align="left" alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" />][sql]
 
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
@@ -83,9 +83,27 @@
 
 <br />
 
-### Frameworks and Libraries:
+### Frameworks:
 
 [<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />][tailwindcss]
+
+[<img align="left" alt="Nuxt.js" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nuxt_icon_130293.png" />][nuxtjs]
+
+[<img align="left" alt="Next.js" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png" />][nextjs]
+
+[<img align="left" alt="NestJS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" />][nestjs]
+
+[<img align="left" alt="Django" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />][django]
+
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/rails_plain_wordmark_logo_icon_146377.png" />][rails]
+
+[<img align="left" alt="Laravel" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />][laravel]
+
+[<img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" />][flask]
+
+<br />
+
+### Libraries:
 
 [<img align="left" alt="JQuery" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_logo_icon_146444.png" />][jquery]
 
@@ -99,19 +117,15 @@
 
 [<img align="left" alt="Vue" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />][vue]
 
-[<img align="left" alt="NestJS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" />][nestjs]
-
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" />][graphql]
 
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" />][bootstrap]
 
-[<img align="left" alt="Django" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />][django]
-
-[<img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" />][flask]
-
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" />][flutter]
 
-[<img align="left" alt="JupyterLab" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" />][jupyter]
+<br />
+
+### Runtime and Plugins:
 
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" />][node]
 
@@ -199,6 +213,8 @@
 
 [<img align="left" alt="Vim" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" />][vim]
 
+[<img align="left" alt="JupyterLab" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jupyter_icon_130494.png" />][jupyter]
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189951.png" />][vscode]
 
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" />][intellij]
@@ -230,9 +246,10 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
-- [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
+
+- [「fish shell」を導入したら、システム開発の作業効率が改善したよ ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
+- [VS Code の settings.json を公開 ❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
+- [生産性が向上する Alfred 4 を使いこなそう ❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
 - [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
@@ -246,11 +263,12 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-- [ポモドーロで時間を管理したら、生産性を大きく高めることができました❗](https://note.com/digiangler777/n/n1af095edcac3)
-- [Mac ユーザー向けサブスク「Setapp」を知っていますか❓](https://note.com/digiangler777/n/n99da8f402ec3)
+
+- [ポモドーロで時間を管理したら、生産性を大きく高めることができました ❗](https://note.com/digiangler777/n/n1af095edcac3)
+- [Mac ユーザー向けサブスク「Setapp」を知っていますか ❓](https://note.com/digiangler777/n/n99da8f402ec3)
 - ["続" 2021 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/n969c47b12925)
 - [3 ステップ読書 〜ビジネス書編〜](https://note.com/digiangler777/n/n20bdca8fa51b)
-- [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n7a329bca04b5)
+- [ソースコードの写経は効果的か ❓ 無駄か ❓](https://note.com/digiangler777/n/n7a329bca04b5)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
@@ -262,9 +280,10 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
+
 - [Notion でバレットジャーナル風のスケジュール管理と技術ノートを作成（仮）](https://digiangler.medium.com/notion-%E3%81%A7%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB%E9%A2%A8%E3%81%AE%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%81%A8%E6%8A%80%E8%A1%93%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90-%E4%BB%AE-1b43a6a4f751?source=rss-4f4f58d46ad9------2)
-- [BetterTouchTool で作業効率を上げませんか❓](https://digiangler.medium.com/bettertouchtool-%E3%81%A7%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%82%92%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-3e928a4cfedc?source=rss-4f4f58d46ad9------2)
-- [SpaceVim を導入してみた❗](https://digiangler.medium.com/spacevim-%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-60348439f419?source=rss-4f4f58d46ad9------2)
+- [BetterTouchTool で作業効率を上げませんか ❓](https://digiangler.medium.com/bettertouchtool-%E3%81%A7%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%82%92%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-3e928a4cfedc?source=rss-4f4f58d46ad9------2)
+- [SpaceVim を導入してみた ❗](https://digiangler.medium.com/spacevim-%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-60348439f419?source=rss-4f4f58d46ad9------2)
 - [エンジニアに役立つおすすめアプリ 2 選](https://digiangler.medium.com/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%A2%E3%83%97%E3%83%AA-2-%E9%81%B8-1d8406a905a8?source=rss-4f4f58d46ad9------2)
 - [”ウマ娘 プリティーダービー”というゲームをやってみた](https://digiangler.medium.com/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC-%E3%81%A8%E3%81%84%E3%81%86%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-101921d23c56?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
@@ -312,23 +331,27 @@
 [php]: https://www.php.net
 [ruby]: https://www.ruby-lang.org/ja
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
+[dart]: https://dart.dev/
 [sql]: https://ja.wikipedia.org/wiki/SQL
 [json]: https://www.json.org/json-en.html
 [markdown]: https://daringfireball.net/projects/markdown
 [tailwindcss]: https://tailwindcss.com
+[nuxtjs]: https://nuxtjs.org
+[nextjs]: https://nextjs.org
+[nestjs]: https://nestjs.com
+[django]: https://www.djangoproject.com
+[rails]: https://rubyonrails.org
+[laravel]: https://laravel.com
+[flask]: https://flask.palletsprojects.com/en/1.1.x
 [jquery]: https://jquery.com
 [react]: https://reactjs.org
 [redux]: https://redux.js.org
 [gatsby]: https://www.gatsbyjs.com
 [angular]: https://angular.io
 [vue]: https://vuejs.org
-[nestjs]: https://nestjs.com
 [graphql]: https://graphql.org
 [bootstrap]: https://getbootstrap.com
-[django]: https://www.djangoproject.com
-[flask]: https://flask.palletsprojects.com/en/1.1.x
 [flutter]: https://flutter.dev
-[jupyter]: https://jupyter.org
 [node]: https://nodejs.org/en
 [deno]: https://deno.land
 [npm]: https://www.npmjs.com
@@ -355,6 +378,7 @@
 [asana]: https://app.asana.com
 [jira]: https://digi-angler.atlassian.net/jira
 [vim]: https://www.vim.org
+[jupyter]: https://jupyter.org
 [figma]: https://www.figma.com
 [xd]: https://www.figma.com
 [affinityphoto]: https://affinity.serif.com/ja-jp/photo
