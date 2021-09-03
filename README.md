@@ -214,10 +214,9 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
-
-- [「fish shell」を導入したら、システム開発の作業効率が改善したよ ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開 ❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう ❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
+- [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
+- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
+- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
 - [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
@@ -231,12 +230,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
-
-- [ポモドーロで時間を管理したら、生産性を大きく高めることができました ❗](https://note.com/digiangler777/n/n1af095edcac3)
-- [Mac ユーザー向けサブスク「Setapp」を知っていますか ❓](https://note.com/digiangler777/n/n99da8f402ec3)
+- [ポモドーロで時間を管理したら、生産性を大きく高めることができました❗](https://note.com/digiangler777/n/n1af095edcac3)
+- [Mac ユーザー向けサブスク「Setapp」を知っていますか❓](https://note.com/digiangler777/n/n99da8f402ec3)
 - ["続" 2021 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/n969c47b12925)
 - [3 ステップ読書 〜ビジネス書編〜](https://note.com/digiangler777/n/n20bdca8fa51b)
-- [ソースコードの写経は効果的か ❓ 無駄か ❓](https://note.com/digiangler777/n/n7a329bca04b5)
+- [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n7a329bca04b5)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
@@ -248,10 +246,9 @@
 > 📌 毎週木曜に更新
 
 <!-- MEDIUM:START -->
-
 - [Notion でバレットジャーナル風のスケジュール管理と技術ノートを作成（仮）](https://digiangler.medium.com/notion-%E3%81%A7%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB%E9%A2%A8%E3%81%AE%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86%E3%81%A8%E6%8A%80%E8%A1%93%E3%83%8E%E3%83%BC%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90-%E4%BB%AE-1b43a6a4f751?source=rss-4f4f58d46ad9------2)
-- [BetterTouchTool で作業効率を上げませんか ❓](https://digiangler.medium.com/bettertouchtool-%E3%81%A7%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%82%92%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-3e928a4cfedc?source=rss-4f4f58d46ad9------2)
-- [SpaceVim を導入してみた ❗](https://digiangler.medium.com/spacevim-%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-60348439f419?source=rss-4f4f58d46ad9------2)
+- [BetterTouchTool で作業効率を上げませんか❓](https://digiangler.medium.com/bettertouchtool-%E3%81%A7%E4%BD%9C%E6%A5%AD%E5%8A%B9%E7%8E%87%E3%82%92%E4%B8%8A%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-3e928a4cfedc?source=rss-4f4f58d46ad9------2)
+- [SpaceVim を導入してみた❗](https://digiangler.medium.com/spacevim-%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-60348439f419?source=rss-4f4f58d46ad9------2)
 - [エンジニアに役立つおすすめアプリ 2 選](https://digiangler.medium.com/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%A2%E3%83%97%E3%83%AA-2-%E9%81%B8-1d8406a905a8?source=rss-4f4f58d46ad9------2)
 - [”ウマ娘 プリティーダービー”というゲームをやってみた](https://digiangler.medium.com/%E3%82%A6%E3%83%9E%E5%A8%98-%E3%83%97%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC-%E3%81%A8%E3%81%84%E3%81%86%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-101921d23c56?source=rss-4f4f58d46ad9------2)
 <!-- MEDIUM:END -->
