@@ -262,11 +262,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [フルスタックへの道](https://note.com/digiangler777/n/naf064ecfd127)
 - [ポモドーロで時間を管理したら、生産性を大きく高めることができました❗](https://note.com/digiangler777/n/n1af095edcac3)
 - [Mac ユーザー向けサブスク「Setapp」を知っていますか❓](https://note.com/digiangler777/n/n99da8f402ec3)
 - ["続" 2021 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/n969c47b12925)
 - [3 ステップ読書 〜ビジネス書編〜](https://note.com/digiangler777/n/n20bdca8fa51b)
-- [ソースコードの写経は効果的か❓無駄か❓](https://note.com/digiangler777/n/n7a329bca04b5)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
