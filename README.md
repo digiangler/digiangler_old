@@ -262,11 +262,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [「週刊おおとろのこっそり話」からのお知らせ](https://note.com/digiangler777/n/n52e2c4b77d70)
 - [素晴らしい UI を備えたポモドーロアプリ](https://note.com/digiangler777/n/n2931c3b336f2)
 - [Docker で Django + MySQL + Nginx の環境構築をする](https://note.com/digiangler777/n/n5af9bf35b0c0)
 - [地方で本の発売日が遅れる理由](https://note.com/digiangler777/n/n15095c68718d)
 - [フルスタックへの道](https://note.com/digiangler777/n/naf064ecfd127)
-- [ポモドーロで時間を管理したら、生産性を大きく高めることができました❗](https://note.com/digiangler777/n/n1af095edcac3)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
