@@ -262,11 +262,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [仕事の息抜きに、あのゲームをプレイしています…](https://note.com/digiangler777/n/nc1f9f1f37ac8)
 - [Google Chrome を起動したときに表示されるホーム画面をカスタマイズする拡張機能](https://note.com/digiangler777/n/nca8959098cfa)
 - [Visual Studio Code のエディタをカスタマイズしてみた](https://note.com/digiangler777/n/n574fa31dad56)
 - [「週刊おおとろのこっそり話」からのお知らせ](https://note.com/digiangler777/n/n52e2c4b77d70)
 - [素晴らしい UI を備えたポモドーロアプリ](https://note.com/digiangler777/n/n2931c3b336f2)
-- [Docker で Django + MySQL + Nginx の環境構築をする](https://note.com/digiangler777/n/n5af9bf35b0c0)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
