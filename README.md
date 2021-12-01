@@ -262,11 +262,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [2022 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/nc08379fabd46)
 - [【2021年版】おおとろが選ぶライティングアプリ ”No.1”](https://note.com/digiangler777/n/n6560d00b9989)
 - [私が洋書と翻訳本を同時読みする理由](https://note.com/digiangler777/n/n1922b1be6f78)
 - [インプットとアウトプット](https://note.com/digiangler777/n/n4969622f672a)
 - [ファイルとフォルダの整理をする季節がやってきましたね・・・](https://note.com/digiangler777/n/n9cf044bf614a)
-- [仕事の息抜きに、あのゲームをプレイしています…](https://note.com/digiangler777/n/nc1f9f1f37ac8)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
