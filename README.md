@@ -262,11 +262,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [今年の振り返り…来年の目標…](https://note.com/digiangler777/n/n0fc4d143b281)
 - [note をはじめて 2 周年になりました](https://note.com/digiangler777/n/n1bbe9e483759)
 - [【2021年版】おおとろが選ぶ便利アプリ ”No.1”](https://note.com/digiangler777/n/nfc48e19a3eb0)
 - [これからは &quot;asdf&quot; というバージョン管理ツールで Web 開発しよう❗️](https://note.com/digiangler777/n/n02a7b260ca55)
 - [2022 年に携わりたいプログラミング言語](https://note.com/digiangler777/n/nc08379fabd46)
-- [【2021年版】おおとろが選ぶライティングアプリ ”No.1”](https://note.com/digiangler777/n/n6560d00b9989)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
