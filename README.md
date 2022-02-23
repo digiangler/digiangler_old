@@ -262,11 +262,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [Docker + Python の実行環境を作ってみた](https://note.com/digiangler777/n/n1f575a8de92a)
 - [アイディアを生み出すヒントをくれる 3 冊](https://note.com/digiangler777/n/n48013e2e75e0)
 - [Mac アプリ専用のお得すぎるサブスクを知らないなんてもったいないですよ❗️](https://note.com/digiangler777/n/nbfb38c896f87)
 - [続 Visual Studio Code のエディタをカスタマイズしてみた](https://note.com/digiangler777/n/nd1037f5825bf)
 - [2021 年もシングルオリジンコーヒーをたくさん飲んだ](https://note.com/digiangler777/n/nbd9600e6fdec)
-- [名刺代わりの古典小説10選](https://note.com/digiangler777/n/ne6a9aef985a4)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
