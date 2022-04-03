@@ -1,4 +1,4 @@
-### Hi there, I'm [Digi-Angler][website] 👋
+### Hi there, I'm [Digi-Angler][https://note.com/digiangler777] 👋
 
 [<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/2021_twitter-banner-02-04.png" />](https://github.com/digiangler)
 
