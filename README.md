@@ -250,7 +250,6 @@
 - [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
 - [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 - [生産性が向上する『Alfred 4』（インストール or 拡張編）](https://qiita.com/digiangler/items/17febe259dd6efbcd608)
-- [Alfred 4 自分用にカスタマイズ（テーマ変更 or 設定編）](https://qiita.com/digiangler/items/32b9165b3eb62d92ee8d)
 <!-- QIITA:END -->
 
 [more Qiita posts...](https://qiita.com/digiangler)
