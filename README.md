@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [最強サブスクアプリ「Setapp」とは](https://note.com/digiangler777/n/nd6ac3d8bb5ec)
 - [毎週火曜日に更新していたマガジン『...](https://note.com/digiangler777/n/n4defd12bdafa)
 - [ソースコードの写経は本当に無駄なのか❓](https://note.com/digiangler777/n/n48d1cc104a89)
 - [Docker + Python の実行環境を作ってみた](https://note.com/digiangler777/n/n1f575a8de92a)
 - [アイディアを生み出すヒントをくれる 3 冊](https://note.com/digiangler777/n/n48013e2e75e0)
-- [Mac アプリ専用のお得すぎるサブスクを知らないなんてもったいないですよ❗️](https://note.com/digiangler777/n/nbfb38c896f87)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
