@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [ポートフォリオサイトを公開するまで](https://note.com/digiangler777/n/n97e4969a634a)
 - [フリーランスとしてフルスタックエンジニアになるためのステップ](https://note.com/digiangler777/n/n031200d891b5)
 - [Rust というプログラミング言語を体験してみた](https://note.com/digiangler777/n/n887ea6f331a3)
 - [いまだに「Setapp」を知らない人いるの？](https://note.com/digiangler777/n/nd6ac3d8bb5ec)
 - [毎週火曜日に更新していたマガジン『...](https://note.com/digiangler777/n/n4defd12bdafa)
-- [ソースコードの写経は本当に無駄なのか❓](https://note.com/digiangler777/n/n48d1cc104a89)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
