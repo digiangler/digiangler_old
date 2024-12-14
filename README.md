@@ -14,7 +14,7 @@
 
 ---
 
-[<img src="../digiangler/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
+[<img src="https://github.com/digiangler/digiangler/blob/master/assets/img/Elon_Musk.jpg" />](https://github.com/digiangler)
 
 ## <img alt="Icon" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/spotify_alt_macos_bigsur_icon_189704.png" /> Relaxing Coding Mix 
 
