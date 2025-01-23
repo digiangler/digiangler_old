@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [誹謗中傷と批判の違い、子供にもわかりやすく解説！](https://note.com/digiangler777/n/n7726b7b9a462)
 - [Python バージョンの選び方：案件別の最適バージョン](https://note.com/digiangler777/n/ndb75785e2548)
 - [ポートフォリオサイトを公開するまで](https://note.com/digiangler777/n/n97e4969a634a)
 - [フリーランスとしてフルスタックエンジニアになるためのステップ](https://note.com/digiangler777/n/n031200d891b5)
 - [Rust というプログラミング言語を体験してみた](https://note.com/digiangler777/n/n887ea6f331a3)
-- [いまだに「Setapp」を知らない人いるの？](https://note.com/digiangler777/n/nd6ac3d8bb5ec)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
