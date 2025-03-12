@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [いわゆる SIer と呼ばれる企業でシステムエンジニアとして働いていた時代のお話](https://note.com/digiangler777/n/nffefc470bc56)
 - [CleanMyMac の知られざる活用法！ あなたの Mac を最適化する 25 の裏技](https://note.com/digiangler777/n/n21842f2af4bb)
 - [人生理念の見つけ方について（実践編）](https://note.com/digiangler777/n/n06c02ecebb86)
 - [人生理念を見つける方法](https://note.com/digiangler777/n/n26435a97262a)
 - [誹謗中傷と批判の違い、子供にもわかりやすく解説！](https://note.com/digiangler777/n/n7726b7b9a462)
-- [Python バージョンの選び方：案件別の最適バージョン](https://note.com/digiangler777/n/ndb75785e2548)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
