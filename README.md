@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [タスクに追われ、心が折れた僕を変えた「タスク管理ノート術」との出会い 〜GTD とデジタル手帳で、人生が整い始めた話〜](https://note.com/digiangler777/n/n192c95140481)
 - [喋るのが苦手でも、生き方は自由 〜吃音症と歩む僕のフリーランス物語〜](https://note.com/digiangler777/n/n829f401d273c)
 - [システムエンジニアからフリーランス開発者へ 〜僕が自由と情熱を選んだ理由〜](https://note.com/digiangler777/n/nfbf5a336a1b6)
 - [モノづくりに魅せられて 〜北海道生まれのエンジニアが見つけた自由への道〜](https://note.com/digiangler777/n/n1e9be41e34e8)
 - [いわゆる SIer と呼ばれる企業でシステムエンジニアとして働いていた時代のお話 Part.6](https://note.com/digiangler777/n/nd2a87911c9a6)
-- [再発を防ぐ！バグ修正のチェックリストと実践テクニック](https://note.com/digiangler777/n/n390ca7eebba4)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
