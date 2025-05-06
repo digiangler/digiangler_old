@@ -246,10 +246,10 @@
 ### :zap: Latest Qiita Posts
 
 <!-- QIITA:START -->
+- [駆け出しエンジニア向け GitHub Flow 入門](https://qiita.com/digiangler/items/e114b3beae7948677332)
+- [GitHub Flow 現場実践ガイド（フルサイクル開発者視点）](https://qiita.com/digiangler/items/a5e86f23325655dec534)
 - [モノづくりと自由を追い求めた道 —— おおとろのストーリー](https://qiita.com/digiangler/items/d2f745f896d4005bfdc5)
 - [「fish shell」を導入したら、システム開発の作業効率が改善したよ❗](https://qiita.com/digiangler/items/d961f208044913f16416)
-- [VS Code の settings.json を公開❗❗](https://qiita.com/digiangler/items/48c7a1aa007f74f589b9)
-- [生産性が向上する Alfred 4 を使いこなそう❗（テーマ変更 or 初期設定編）](https://qiita.com/digiangler/items/5623709e66676ea98e88)
 <!-- QIITA:END -->
 
 [more Qiita posts...](https://qiita.com/digiangler)
