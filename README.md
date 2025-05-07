@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [「それ、いくら？」から解放された日 〜僕が自分の &quot;価値&quot; に値段をつけ、届けられるようになるまで〜](https://note.com/digiangler777/n/nc402a48f6ee9)
 - [深夜の開発ラボ ～AI 駆動開発って何者？～](https://note.com/digiangler777/n/nbad4fed2db1d)
 - [AI と共にコードを書く未来 〜僕が AI 駆動開発に本気で向き合い、見えてきた景色〜](https://note.com/digiangler777/n/nd3a31934d740)
 - [時間よ止まれ！とは願わないけど 〜僕が &quot;時間を切り売りしない働き方&quot; を本気で考え、見つけた自由への道筋〜](https://note.com/digiangler777/n/ndb8ff35e85a7)
 - [マルチタスクに潰れかけた僕が、GTD × PDCA で立て直した話 〜タスクに追われる毎日から抜け出して、“地に足のついた働き方” へ〜](https://note.com/digiangler777/n/nb2b3678dad83)
-- [吃音症でもフリーランスでやっていくための 7 つの工夫](https://note.com/digiangler777/n/n89bd2becc838)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
