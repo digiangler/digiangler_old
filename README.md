@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [珈琲の香りとコードの匂い、そして故郷からの便り 〜僕がフリーランスとして 「大切なもの」 と向き合い続けるための不器用なバランス術〜](https://note.com/digiangler777/n/nb0e7db2e6e0b)
 - [マルチタスク地獄から僕を救った 「Obsidian × GTD」 ノート術 〜デジタルツールで思考とタスクを整理し、創造性を解き放つ話〜](https://note.com/digiangler777/n/n36d81d7efc4e)
 - [『その Mac アプリ、まだ単品で買ってるの？』 〜僕が Setapp で見つけた、賢すぎるアプリのサブスク体験とおすすめ 10 選〜](https://note.com/digiangler777/n/n4db4350bfdb7)
 - [「それ、いくら？」から解放された日 〜僕が自分の &quot;価値&quot; に値段をつけ、届けられるようになるまで〜](https://note.com/digiangler777/n/nc402a48f6ee9)
 - [深夜の開発ラボ ～AI 駆動開発って何者？～](https://note.com/digiangler777/n/nbad4fed2db1d)
-- [AI と共にコードを書く未来 〜僕が AI 駆動開発に本気で向き合い、見えてきた景色〜](https://note.com/digiangler777/n/nd3a31934d740)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
