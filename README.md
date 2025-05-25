@@ -261,11 +261,11 @@
 > 📌 毎週火・水曜に更新
 
 <!-- NOTE:START -->
+- [フリーランスが絶対に知っておくべき 「お金」 の話 〜僕が失敗から学んだ請求・契約・税金の基礎知識と、身を守るための知恵〜](https://note.com/digiangler777/n/n16b44f2c3842)
 - [“うまく書こう” が共感を遠ざける理由── AI との対話で見えた 『揺らぎの力』](https://note.com/digiangler777/n/ncdd33e1a9c83)
 - [僕が 「書くこと」 で人生を切り拓いてきた話 〜吃音症の僕が見つけた、文章という最強のコミュニケーションツール〜](https://note.com/digiangler777/n/nee4bdc105df3)
 - [情熱が消えかけた日、僕が &quot;作る&quot; ことをやめなかった理由 〜燃え尽きと再起の物語〜](https://note.com/digiangler777/n/n70091f9d9f7d)
 - [珈琲の香りとコードの匂い、そして故郷からの便り 〜僕がフリーランスとして 「大切なもの」 と向き合い続けるための不器用なバランス術〜](https://note.com/digiangler777/n/nb0e7db2e6e0b)
-- [マルチタスク地獄から僕を救った 「Obsidian × GTD」 ノート術 〜デジタルツールで思考とタスクを整理し、創造性を解き放つ話〜](https://note.com/digiangler777/n/n36d81d7efc4e)
 <!-- NOTE:END -->
 
 [more note posts...](https://note.com/digiangler777)
